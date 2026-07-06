@@ -18,7 +18,9 @@ I am building practical cybersecurity skills through coursework, hands-on labs, 
 ## Featured Projects
 
 ### Python Security Tools
-Coming soon: Python-based cybersecurity tools such as password-strength analysis, file-integrity monitoring, log analysis, and phishing detection.
+
+- [Password Strength Analyzer](https://github.com/malaika-khan54/python-security-tools)  
+  A Python tool that evaluates password strength using length, uppercase and lowercase letters, numbers, and special characters.
 
 ### Network Security Labs
 Coming soon: Networking and Packet Tracer labs involving VLANs, IP addressing, routers, switches, DHCP, NAT, wireless security, and troubleshooting.
