@@ -1,10 +1,18 @@
 # Malaika Khan | Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio. I am a Cybersecurity student at Southern New Hampshire University with an interest in AI security, network security, threat detection, and secure system design.
+Welcome to my cybersecurity portfolio.
+
+I am a Cybersecurity student at Southern New Hampshire University with interests in AI security, network security, threat detection, incident response, identity security, and secure system design.
+
+This portfolio highlights the projects, labs, coursework, and technical skills I am developing as I prepare for a career in cybersecurity and future graduate research in AI security.
 
 ## About Me
 
-I am building practical cybersecurity skills through coursework, hands-on labs, Python projects, networking exercises, and independent learning. My long-term goal is to pursue advanced research in AI security and contribute to safer, more secure technology.
+I am building practical cybersecurity skills through university coursework, hands-on labs, Python projects, networking exercises, certifications, and independent learning.
+
+My experience includes technical support, troubleshooting, administrative operations, customer communication, and explaining technical information clearly.
+
+My long-term goal is to pursue advanced research in AI security and contribute to safer, more secure technology.
 
 ## Technical Interests
 
@@ -14,43 +22,124 @@ I am building practical cybersecurity skills through coursework, hands-on labs, 
 - Python for Cybersecurity
 - Access Control and Identity Security
 - Security Awareness and Risk Management
+- Secure System Design
+- Log Analysis and Authentication Security
 
 ## Featured Projects
 
-### Python Security Tools
+### 1. Password Strength Analyzer
 
-- [Password Strength Analyzer](https://github.com/malaika-khan54/python-security-tools)  
-  A Python tool that evaluates password strength using length, uppercase and lowercase letters, numbers, and special characters.
+A Python security tool that evaluates password strength using:
 
-### Network Security Labs
-Coming soon: Networking and Packet Tracer labs involving VLANs, IP addressing, routers, switches, DHCP, NAT, wireless security, and troubleshooting.
+- Password length
+- Uppercase and lowercase letters
+- Numbers
+- Special characters
 
-### Cybersecurity Coursework
+The program identifies passwords as weak, moderate, or strong and provides suggestions for improvement.
+
+[View Password Strength Analyzer](https://github.com/malaika-khan54/python-security-tools)
+
+### 2. Python Login Log Analyzer
+
+A Python cybersecurity tool that analyzes login records and looks for suspicious authentication activity.
+
+The program can:
+
+- Count successful and failed login attempts
+- Detect repeated failed login attempts
+- Flag suspicious IP addresses
+- Identify successful logins after multiple failures
+- Help recognize activity that may indicate a brute-force attack
+
+[View Python Login Log Analyzer](./python-login-log-analyzer)
+
+## Network Security Labs
+
+My networking and security labs include experience with:
+
+- Cisco Packet Tracer
+- Routers and switches
+- VLANs
+- IPv4 and IPv6 addressing
+- Subnetting
+- DHCP
+- NAT
+- DNS
+- VPNs
+- Wireless security
+- Network troubleshooting
+- Ping and connectivity testing
+
+More documented networking projects and Packet Tracer labs will be added to this portfolio.
+
+## Cybersecurity Coursework
+
 Selected coursework topics include:
 
 - CIA Triad and risk management
-- Access controls and multi-factor authentication
-- Incident response and contingency planning
-- Network security and troubleshooting
+- Access control and multi-factor authentication
+- Authentication and identity security
+- Incident response
+- Business continuity and disaster recovery
 - Security awareness training
-- Threat actors, attack vectors, and malware
+- Threat actors and attack vectors
+- Malware and phishing
+- Network security
+- Operating system security
+- Virtualization security
+- Security monitoring and log analysis
+- Fundamental security design principles
 
-## Certifications
+## Technical Skills
+
+- Python
+- Java
+- GitHub
+- Cisco Packet Tracer
+- Network troubleshooting
+- File processing
+- Security log analysis
+- Threat detection
+- Technical support
+- Incident analysis
+- Access control
+- Risk assessment
+- Documentation and reporting
+
+## Certifications and Learning
 
 - Microsoft Career Essentials in Cybersecurity
 - Microsoft Security Copilot Certificate
 - Duolingo English Test: 140 / C1 English Proficiency
+- More than 100 certificates completed across cybersecurity, technology, business, and professional development topics
 
 ## Current Learning Goals
 
-- Build cybersecurity projects using Python
-- Complete hands-on security labs and document findings
+- Build more cybersecurity projects using Python
+- Add networking and Packet Tracer projects
+- Complete hands-on security labs and document the results
 - Learn foundational AI security concepts
-- Develop a research-focused portfolio for future graduate and PhD applications
+- Develop projects related to threat detection and incident response
+- Build a research-focused portfolio for future graduate and PhD applications
+- Continue improving my GitHub documentation and technical writing
+
+## Future Project Ideas
+
+Projects I plan to add include:
+
+- Network traffic analyzer
+- Phishing email detector
+- File integrity checker
+- Password breach checker
+- Security incident report generator
+- Vulnerability scanner
+- AI security research projects
+- Packet Tracer network security labs
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/malaika-khan-2750581b5
-- GitHub: github.com/malaika-khan54
+- LinkedIn: [Malaika Khan](https://www.linkedin.com/in/malaika-khan-2750581b5)
+- GitHub: [malaika-khan54](https://github.com/malaika-khan54)
 
-Thank you for visiting my portfolio.
+Thank you for visiting my cybersecurity portfolio.
