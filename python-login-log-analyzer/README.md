@@ -30,7 +30,7 @@ The program flags an IP address when it has three or more failed login attempts.
 
 - `login_analyzer.py` contains the Python code
 - `sample_log.txt` contains sample login records
-- `login-analyzer-output.png` shows the program output
+- `login_analyzer.png` shows the program output
 - `README.md` explains the project
 
 ## Technologies Used
@@ -75,7 +75,7 @@ Successful logins after repeated failures:
 
 The screenshot below shows the Login Log Analyzer successfully identifying suspicious IP addresses, counting successful and failed login attempts, and detecting a successful login after repeated failed attempts.
 
-![Login Log Analyzer Output](login analyzer.png)
+![Login Log Analyzer Output](login_analyzer.png)
 
 ## Skills Demonstrated
 
