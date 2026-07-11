@@ -71,7 +71,9 @@ Successful logins after repeated failures:
 ==================================================
 ```
 
-## Project Screenshot
+## Program Output
+
+The screenshot below shows the Login Log Analyzer successfully identifying suspicious IP addresses, counting successful and failed login attempts, and detecting a successful login after repeated failed attempts.
 
 ![Login Log Analyzer Output](login-analyzer-output.png)
 
