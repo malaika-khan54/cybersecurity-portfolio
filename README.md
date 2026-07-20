@@ -54,6 +54,28 @@ The program can:
 
 [View Python Login Log Analyzer](./python-login-log-analyzer)
 
+### 3. CYB 230 Module Three Security Labs
+
+A hands-on academic project completed for **CYB 230: Operating System Security** at Southern New Hampshire University.
+
+The project documents labs involving Windows and Linux security, including:
+
+- Manually configuring CentOS network interfaces
+- Working with IP addresses, gateways, DNS, and hostname resolution
+- Testing connectivity with `ping`, `host`, and `dig`
+- Configuring Windows Firewall with Advanced Security
+- Enabling ICMPv4 firewall rules
+- Creating Linux firewall rules with `iptables`
+- Blocking insecure Telnet traffic
+- Creating a customized Windows logon warning
+- Auditing failed login attempts in Windows Event Viewer
+- Scanning Linux systems and reviewing open ports with Zenmap
+- Applying system-hardening and traffic-control settings
+
+This project helped me strengthen my skills in network configuration, firewall management, security auditing, troubleshooting, and technical documentation.
+
+[View CYB 230 Module Three Security Labs](./cyb230-module-three-security-labs)
+
 ## Network Security Labs
 
 My networking and security labs include experience with:
